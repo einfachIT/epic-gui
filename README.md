@@ -10,7 +10,7 @@ https://github.com/einfachIT/epic-gui.git
 python epic-gui.py
 ```
 
-## If you want to run on another deveopment environment, I recoommend to use virtualenv
+## If you want to run on another deveopment environment, I recommend to use virtualenv
 
 1. Install virtualenvwrapper and TK System libraries
 2. Source source.me
